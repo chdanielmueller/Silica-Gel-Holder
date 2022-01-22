@@ -16,13 +16,13 @@ Dimensions can be altered if needed for another spool.
 
 ## Additional parts
 
-Temperature Sensor / Hygrometer: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_ASrIJt), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32861882092.html)
+Temperature Sensor / Hygrometer: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_9zF02U), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32861882092.html)
 
-Battery for Temperature Sensor: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_Aq8yYT), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32908492673.html)
+Battery for Temperature Sensor: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_AC9CGC), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32908492673.html)
 
-Silica Gel (reusable): [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_9I1yjZ), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002133494175.html)
+Silica Gel (reusable): [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_AmPdHI), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002133494175.html)
 
-Vacuum Bag: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_ACek3p), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002284232227.html)
+Vacuum Bag: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_9gwJxS), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002284232227.html)
 
 ## Images
 
